@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports>
+  <sport name="Programming">
+    <country name="International">
+      <tournament name="Newbie League">
+        <matches>
+          <match id="123" date="2021 05 01" time="13:00" home="International Programming All Stars"
+            away="Team GeraDev">
+            <score home="2" away="1"/>
+          </match>
+          <match id="456" date="2022 05 01" time="09:00" home="Team GeraDev"
+            away="International Programming All Stars"/>
+          <match id="789" date="2022 05 01" time="13:00" home="International Programming All Stars"
+            away="Team GeraDev"/>
+        </matches>
+      </tournament>
+    </country>
+  </sport>
+</sports>
